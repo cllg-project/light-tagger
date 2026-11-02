@@ -1,0 +1,31 @@
+E252	+	BIBL	Φ 36970 ?
+E265	-	BIBL	EM 710 , 39 )
+E265	+	BIBL	EM 710 , 39
+E278	-	BIBL	EM 524 , 21 )
+E278	+	BIBL	EM 524 , 21
+E269	+	BIBL	Deut . 34 , 6
+E277	-	BIBL	Thuc . 4 , 109 , 1 )
+E277	+	BIBL	Thuc . 4 , 109 , 1
+E272	-	BIBL	Β 459 )
+E272	+	BIBL	Β 459
+E275	-	BIBL	ξ 435 — 6 )
+E275	+	BIBL	ξ 435 — 6
+E275	-	BIBL	Γ 320 . Η 202 )
+E275	+	BIBL	Γ 320 . Η 202
+E284	-	BIBL	Π 636 )
+E284	+	BIBL	Π 636
+E285	-	BIBL	Γ 334 )
+E285	+	BIBL	Γ 334
+E289	-	BIBL	sch . vet . 94a in . )
+E289	+	REF	sch . vet . 94a in .
+E292	-	BIBL	2 , 73 , 1 )
+E292	+	BIBL	2 , 73 , 1
+E294	-	BIBL	743 R . )
+E294	+	BIBL	( fr . 677 N . 2 = 743 R . )
+E298	-	BIBL	Χ 462 — 5 )
+E298	+	BIBL	Χ 462 — 5
+E287	+	BIBL	Φ 67 — 8 ?
+E288	-	BIBL	Deut 3 , 14 ἐπαύλεις
+E288	+	BIBL	Deut 3 , 14
+E286	-	NOTE	( Theoph . Sim . hist . 4 , 4 , 14 ) ?
+E286	+	BIBL	( Theoph . Sim . hist . 4 , 4 , 14 ) ?

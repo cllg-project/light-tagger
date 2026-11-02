@@ -1,0 +1,11 @@
+D502	+	NOTE	( Aegisthus ) ?
+D504	+	BIBL	Ae ̈ tius Plac . III 9 , 3 .
+D507	+	BIBL	Ae ̈ tius Plac . IV 5 , 6 .
+D507	+	BIBL	Theodoret V 22 p . 73 , 14 ?
+D520	+	REF	[ fr . 71 ] ?
+D534	+	BIBL	CENSOR . 6 , 8 ?
+D536	-	REF	§ 98a )
+D536	+	REF	( § 98a )
+D537	+	NOTE	( scil . logicae )
+D545	+	REF	( ηʹ )
+D548	+	NOTE	( τὰ λογικά )

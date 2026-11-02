@@ -1,0 +1,11 @@
+E1953	+	BIBL	( Sir . 20 , 19 . . )
+E1959	+	REF	( A f . 53 b , E f . 155 , F f . 786 , H f . 159 ) ?
+E1961	-	BIBL	( BCE3E4 )
+E1969	-	BIBL	( B f . 275 b , H f . 598 )
+E1969	+	REF	( B f . 275 b , H f . 598 ) ?
+E1971	-	BIBL	( cf . 57 )
+E1972	+	NOTE	( A : non exstat O )
+E1977	+	BIBL	( ν 407 )
+E1986	-	NOTE	Jos 15 , 42
+E1989	-	NOTE	Jos 11 , 2
+E1998	-	NOTE	Jos 12 , 11

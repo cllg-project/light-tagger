@@ -1,0 +1,9 @@
+E1108	-	NOTE	Jos 15 , 36
+E1114	+	REF	( 364 )
+E1118	+	REF	( 64 )
+E1121	-	BIBL	( A f . 342 b )
+E1121	+	REF	( A f . 342 b ) ?
+E1127	+	BIBL	Gen 14 , 14
+E1134	-	NOTE	Jos 12 , 22 τοῦ Καρμήλου
+E1143	-	NOTE	I Kön 9 , 18
+E1145	+	NOTE	( BCE3E4 ) #1

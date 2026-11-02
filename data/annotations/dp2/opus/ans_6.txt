@@ -1,0 +1,17 @@
+E1601	-	BIBL	Μ 469 — 71 )
+E1601	+	BIBL	Μ 469 — 71
+E1684	+	BIBL	Ρ 86 ?
+E1684	+	BIBL	Β 697 ?
+E1742	-	REF	( 481
+E1742	+	REF	( 481 )
+E1762	-	BIBL	EM 243 , 16 ; Et . Gud . 326 , 14 Stef . )
+E1762	+	BIBL	EM 243 , 16 ; Et . Gud . 326 , 14 Stef .
+E1764	-	BIBL	Ο 430 )
+E1764	+	BIBL	Ο 430
+E1771	-	BIBL	Β 289 )
+E1771	+	BIBL	Β 289
+E1776	+	BIBL	Σ 412 — 5
+E1800	-	BIBL	Θ 89 )
+E1800	+	BIBL	Θ 89
+E1803	-	BIBL	c . 67 — 68 )
+E1803	+	BIBL	( l . c . 67 — 68 ) ?

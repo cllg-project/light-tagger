@@ -1,0 +1,8 @@
+D51	+	BIBL	Galenus de animi peccatis dignoscendis 7 . Vol . V p . 101K . ?
+D57	-	REF	( § 16 p . 29 e
+D57	+	REF	( § 16 p . 29 e )
+D73	+	NOTE	( fr . XXVII Wyttenb . ) ?
+D74	+	BIBL	Ae ̈ tius Plac . II 20 , 4 . ?
+D77	+	BIBL	Simplicius in Aristot . categ . f . 98 Ζ . ed . Bas . ?
+D78	+	BIBL	Ae ̈ tius Plac . V 1 , 1 . ?
+D98	+	NOTE	( Tantalus ) ?

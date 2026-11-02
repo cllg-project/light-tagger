@@ -1,0 +1,17 @@
+E235	+	NOTE	( BCE3E4 )
+E236	-	BIBL	( #2
+E236	-	BIBL	Μ 6 — 7 )
+E236	+	BIBL	( Μ 6 — 7 )
+E236	+	BIBL	Μ 6 #2
+E277	-	BIBL	Thuc . 4 , 109 , 1
+E277	+	BIBL	( Thuc . 4 , 109 , 1 )
+E278	+	BIBL	Or . 88 , 9 ?
+E287	-	BIBL	( 67 )
+E287	+	REF	( 67 )
+E394	+	REF	463 - 9b
+E397	+	NOTE	( unde EM 537 , 44 ) ?
+E411	+	NOTE	( idem ait Aristobulus ) ?
+E429	-	NOTE	( τυνν - ] Ho , τινν -
+E429	+	NOTE	( τυνν - ] Ho , τινν - ] Harl . 5 )
+E429	-	BIBL	Harl . 5
+E429	+	NOTE	( hoc = Tz2 392b ) ?

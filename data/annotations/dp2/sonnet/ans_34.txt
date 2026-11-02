@@ -1,0 +1,7 @@
+E1705	-	BIBL	( B f . 146 b , I f . 203 b , L f . 109 )
+E1705	+	REF	( B f . 146 b , I f . 203 b , L f . 109 ) ?
+E1710	-	NOTE	Jos 15 , 52 ?
+E1717	-	NOTE	I Kön 2 , 35i ; 9 , 15
+E1742	-	BIBL	( 480 )
+E1742	+	REF	( 480 ) #1
+E1742	+	REF	( 480 ) #2

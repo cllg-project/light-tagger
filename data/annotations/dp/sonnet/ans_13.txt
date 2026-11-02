@@ -1,0 +1,10 @@
+D659	-	BIBL	, Thales XXV . die ab aequinoctio , Anaximander XXXI ?
+D660	+	REF	p . 26 , 31 ?
+D661	-	REF	fr . CVII )
+D661	+	BIBL	( Heraclit . fr . CVII )
+D669	-	BIBL	( m62 )
+D669	+	REF	( m62 ) ?
+D669	-	REF	II
+D669	+	REF	II 57 ?
+D690	+	BIBL	[ fr . 98 ] ?
+D695	+	BIBL	( p . 957 C — 958 A )

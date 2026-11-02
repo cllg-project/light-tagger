@@ -1,0 +1,10 @@
+E1302	-	BIBL	( BCE3E4 )
+E1304	+	BIBL	Sym . 605
+E1304	+	BIBL	EM 891
+E1306	-	NOTE	Jos 11 , 7
+E1310	-	NOTE	Jos 9 , 23
+E1311	-	BIBL	quod cum nuberet Jovi Juno , diis offerentibus munera , Terra quoque obtulerit aurea mala cum ramis
+E1323	+	BIBL	Gen 10 , 19
+E1334	+	REF	[ 66a3 ]
+E1337	-	NOTE	Jos 19 , 46
+E1347	+	REF	689 — 90 ?

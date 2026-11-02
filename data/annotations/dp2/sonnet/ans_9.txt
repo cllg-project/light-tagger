@@ -1,0 +1,19 @@
+E457	-	BIBL	( sc . ad Β 495 )
+E457	+	BIBL	Β 495
+E460	-	REF	Z 94 ?
+E460	+	BIBL	Z 94 ?
+E461	+	BIBL	Α 73 ?
+E470	-	BIBL	Ω 85 — 6 )
+E470	+	BIBL	Ω 85 — 6
+E472	-	BIBL	( m2 ) ?
+E478	-	BIBL	Λ 466 )
+E478	+	BIBL	Λ 466
+E486	+	BIBL	( φ 13 et 15 ) ?
+E498	-	REF	6 , 14 ) ?
+E498	+	REF	6 , 14 ?
+E499	-	BIBL	Et . Gen .
+E499	-	BIBL	AIAIIB s . v .
+E499	+	BIBL	Et . Gen . AIAIIB s . v .
+E499	-	BIBL	EM 377 , 16 )
+E499	+	BIBL	EM 377 , 16
+E456	+	NOTE	( cf . ad p . 143 , 11 — 15 ) ?

@@ -1,0 +1,12 @@
+D751	+	REF	( ζʹ )
+D754	+	REF	( 111 )
+D760	+	BIBL	γ 195 ?
+D774	-	BIBL	( m52 )
+D774	+	REF	( m52 ) ?
+D774	+	REF	II 48 , 49 ?
+D784	+	REF	[ 1367b29 ]
+D790	-	BIBL	HQ . cf . ad Χ 91
+D790	+	BIBL	Χ 91 ?
+D795	+	BIBL	Ζ 15 ?
+D795	+	BIBL	ζ 52 ?
+D797	+	BIBL	Nonium p . 65 , 11 ?

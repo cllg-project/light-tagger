@@ -1,0 +1,12 @@
+E2900	+	BIBL	EM 1210 ?
+E2900	+	BIBL	Et . Gud . ( c ) α 1096 ?
+E2900	+	BIBL	Orio 31 , 12 ?
+E2902	-	NOTE	II Kön 23 , 10 «
+E2903	+	BIBL	Gen . 35 , 8
+E2911	-	NOTE	Jos 19 , 15
+E2917	+	BIBL	Jer 48 , 34
+E2932	-	BIBL	( Np D )
+E2923	+	BIBL	Et . Gen . AB s . v . ὀπαδός
+E2937	-	NOTE	Cod . f . 101 a . Οὐ γὰρ ἁπλῶς ,
+E2937	+	NOTE	Cod . f . 101 a . ?
+E2937	+	NOTE	Cod . f . 191 b . ?

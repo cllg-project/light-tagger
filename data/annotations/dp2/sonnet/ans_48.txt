@@ -1,0 +1,14 @@
+E2419	+	NOTE	( BCE3 E4 )
+E2419	-	BIBL	( BE3E4 )
+E2419	+	NOTE	( BE3E4 )
+E2432	+	NOTE	( BCE3E4 ) #1
+E2420	-	NOTE	( Cyrop VII 4 . 15 )
+E2431	-	NOTE	( frg . 134 Diehl ; inc . lib . 17 Gallavotti )
+E2436	-	BIBL	( A f . 82 b , B f . 54 b , C f . 114 b , H f . 253 b )
+E2443	-	BIBL	( 84 fin . B )
+E2442	-	BIBL	Richt 8 , 13 ἀνάβασις
+E2442	+	BIBL	Richt 8 , 13
+E2446	-	NOTE	I Kön 4 , 29 ὄρος
+E2409	+	BIBL	Sym . 1295 ?
+E2409	+	BIBL	EM 1654 ?
+E2444	+	BIBL	Ep . Cr . I 346 , 17 ?

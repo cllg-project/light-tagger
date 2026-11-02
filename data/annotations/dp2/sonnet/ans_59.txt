@@ -1,0 +1,22 @@
+E2952	-	REF	P 645 — 6
+E2952	+	BIBL	P 645 — 6
+E2956	-	NOTE	( Orac . Sibyll . )
+E2960	-	BIBL	( Hector interfecit )
+E2960	+	NOTE	( Hector interfecit )
+E2963	+	BIBL	Su . s . v . Λαμία ?
+E2965	-	BIBL	( B f . 384 , H f . 420 . )
+E2965	+	NOTE	( B f . 384 , H f . 420 . )
+E2968	-	NOTE	Jos 18 , 13
+E2981	-	NOTE	I Kön 17 , 9
+E2996	-	NOTE	Jos 10 , 38
+E2971	-	BIBL	( BCE3E4 )
+E2971	+	NOTE	( BCE3E4 )
+E2974	-	BIBL	( BCE3E4 )
+E2978	-	BIBL	( BCE3E4 )
+E2978	+	NOTE	( BCE3E4 )
+E2978	+	NOTE	( BE3E4 )
+E2984	+	BIBL	Ex 1 , 11
+E2989	-	REF	Jer 37 , 16
+E2989	+	BIBL	Jer 37 , 16
+E2980	+	BIBL	a . Or . 20 , 31 ?
+E2980	+	BIBL	Et . Gen . AB s . v . ἀχανές

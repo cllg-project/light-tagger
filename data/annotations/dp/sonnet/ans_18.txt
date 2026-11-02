@@ -1,0 +1,6 @@
+D906	+	BIBL	Simplicius in Aristot . categ . f . 94 E ed . Bas .
+D922	-	BIBL	Ar . 147 . ξ 468 . Certe addidit
+D922	+	BIBL	Ar . 147 . ξ 468 .
+D922	+	BIBL	F . Ar . p . 26 ?
+D947	+	BIBL	L . Ar . 150 . ?
+D948	+	NOTE	[ ὥστε ἀναμιμνήσκονται inserendum esse putat Friedlaenderus in Fleckeisenii Annal . tom . LXXVII p . 5 ]

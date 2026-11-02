@@ -1,0 +1,13 @@
+E1150	-	BIBL	( BE3 E4 )
+E1150	+	NOTE	( cf . Β 869 )
+E1150	+	NOTE	( BCE3 E4 ) #1 ?
+E1154	-	NOTE	II Kön 17 , 30
+E1158	+	BIBL	Et . gen . 1161
+E1159	-	BIBL	( BE3 )
+E1160	-	REF	Ez 30 , 14
+E1160	+	BIBL	Ez 30 , 14
+E1162	+	BIBL	Gen 2 , 13
+E1166	+	BIBL	EM 284 , 9
+E1169	+	NOTE	( C om . 1 — 5 Ἀραβίας ; Contuli et DW )
+E1171	+	NOTE	( BCE3E4 )
+E1183	+	BIBL	1 Kor 6 , 16 — 19

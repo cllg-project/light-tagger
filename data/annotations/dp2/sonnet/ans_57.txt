@@ -1,0 +1,20 @@
+E2855	-	BIBL	( B f . 375 b , H f . 398 b )
+E2855	+	NOTE	( B f . 375 b , H f . 398 b )
+E2858	-	BIBL	reprobato Λ 767 — 85
+E2858	+	BIBL	Λ 767 — 85
+E2859	-	BIBL	p . 21 )
+E2859	+	REF	p . 21
+E2867	+	BIBL	( Philem . fr . 212 )
+E2868	-	BIBL	( BC E3E4 )
+E2868	+	NOTE	( BC E3E4 )
+E2873	-	NOTE	II Kön 5 , 12 ποταμὸς Δαμασκοῦ .
+E2873	+	BIBL	II Kön 5 , 12
+E2885	-	NOTE	Jos 15 , 58
+E2894	-	BIBL	cf . Σ 481
+E2894	+	BIBL	Σ 481
+E2881	+	BIBL	Sym . 803 ?
+E2881	+	BIBL	EM 1131 ?
+E2865	+	BIBL	Et . gen . 933 ?
+E2889	+	BIBL	( Hes . op . 374 )
+E2883	+	NOTE	( BCE3E4 ) #3
+E2883	+	NOTE	( BE3E4 )

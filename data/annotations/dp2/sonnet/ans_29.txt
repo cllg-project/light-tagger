@@ -1,0 +1,13 @@
+E1450	+	BIBL	Sym . 808
+E1450	+	BIBL	EM 1156
+E1455	-	NOTE	I Kön 4 , 13
+E1466	-	NOTE	( Antim . ? fr . 161 W . )
+E1466	+	BIBL	( Antim . ? fr . 161 W . ) ?
+E1471	+	NOTE	( A : δικαιότατα O )
+E1483	-	NOTE	Jos 15 , 50
+E1484	-	BIBL	( B f . 385 b , H f . 422 b . )
+E1484	+	REF	( B f . 385 b , H f . 422 b . ) ?
+E1485	-	NOTE	II Kön 5 , 12 ποταμὸς Δαμασκοῦ .
+E1485	+	BIBL	II Kön 5 , 12
+E1488	+	REF	663 ?
+E1499	+	BIBL	( Aesch . Suppl . 457 )

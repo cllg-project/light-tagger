@@ -1,0 +1,14 @@
+E1052	-	BIBL	( BCE3E4 ) #1 ?
+E1055	-	BIBL	( B , C ?
+E1055	+	NOTE	( B , C ] [ bis ] , E4 ) ?
+E1058	-	NOTE	( frg 163 Tur )
+E1058	-	NOTE	( Leg VII 792 A )
+E1063	+	BIBL	Λ 559 ?
+E1068	-	NOTE	( Π 393 al . )
+E1072	+	BIBL	Sym . 1056
+E1076	+	BIBL	EM 127 D
+E1094	-	NOTE	Jos 13 , 3 ἐπισημοτάτη
+E1094	+	BIBL	Jos 13 , 3
+E1095	+	BIBL	( Ar . Vesp . 1086 )
+E1096	+	BIBL	Et . gen . 1293
+E1098	-	NOTE	Jos 15 , 19

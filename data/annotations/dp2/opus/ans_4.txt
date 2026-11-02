@@ -1,0 +1,18 @@
+E855	+	NOTE	( cf . Χ 98 — 130 )
+E901	+	NOTE	( BCE3E4 ) #1
+E901	+	NOTE	( BCE3E4 ) #2
+E908	-	BIBL	( λ 312 , cf .
+E908	+	BIBL	λ 312
+E988	+	NOTE	( cf . prov . ap . Su . τ 1019 )
+E988	+	NOTE	( BE3E4 )
+E1038	+	REF	1314
+E1038	+	REF	1315
+E1038	+	REF	1317
+E1038	+	REF	1318
+E1052	-	BIBL	( BCE3E4 ) #2
+E1055	+	NOTE	( B , C [ bis ] , E4 )
+E1072	-	BIBL	AP III 343 , 19 )
+E1072	+	BIBL	AP III 343 , 19
+E1076	+	BIBL	Miller , Mélang . p . 18
+E1114	-	BIBL	Μ 17 — 35 )
+E1114	+	BIBL	Μ 17 — 35

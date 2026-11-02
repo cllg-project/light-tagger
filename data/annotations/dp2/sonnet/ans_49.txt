@@ -1,0 +1,14 @@
+E2458	-	BIBL	( BE3E4 )
+E2458	+	NOTE	( BE3E4 )
+E2464	-	BIBL	( BCE3E4 )
+E2464	+	NOTE	( BCE3E4 )
+E2470	+	BIBL	Ez 20 , 45
+E2474	-	NOTE	Richt 1 , 33
+E2474	+	BIBL	Richt 1 , 33
+E2496	-	NOTE	Jos 19 , 14 φάραγξ Ἐφθαέλ ,
+E2496	+	BIBL	Jos 19 , 14
+E2481	-	NOTE	( Alcae . com . fr . 20 )
+E2481	+	BIBL	( Alcae . com . fr . 20 )
+E2489	+	BIBL	EM 31 , 12 ?
+E2489	+	BIBL	Et . Sym . 108 , 14 S . ?
+E2454	+	REF	423a2

@@ -1,0 +1,11 @@
+E2255	+	REF	904 — 10a ?
+E2259	-	BIBL	( BCE3E4 )
+E2264	+	BIBL	Σ 100 ?
+E2267	+	BIBL	Phlegon De longaevis , 2
+E2269	+	BIBL	Plutarch . de sera num . vind . 12
+E2278	+	BIBL	Α 162 , Ι 492
+E2283	-	BIBL	( sc . ad Β 839 )
+E2289	+	NOTE	( sc . Σ 556 )
+E2292	+	BIBL	( Ar . Plut . 527 . . )
+E2295	+	BIBL	Et . Gen . B s . v . φράτορες
+E2296	+	BIBL	Olymp . in Gorg . pr . 41 p . 395 Jahn

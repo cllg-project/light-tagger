@@ -1,0 +1,26 @@
+D601	+	BIBL	Apoll . l . h . 72 , 1 . ?
+D601	+	BIBL	ν 332 ?
+D601	+	BIBL	Eust . 1911 , 7 . ?
+D604	+	BIBL	( Georg . II 326 ) ?
+D604	+	BIBL	Georgica I 5 ?
+D611	-	BIBL	( c74 , m71 )
+D611	+	REF	( c74 , m71 ) ?
+D613	-	BIBL	( m55 )
+D613	+	REF	( m55 ) ?
+D615	+	BIBL	ibid . p . 106 , 10 .
+D620	-	BIBL	( c24 , m24 )
+D620	+	REF	( c24 , m24 ) ?
+D623	+	BIBL	F . Ar . 4 . ι 297 ?
+D628	+	REF	Ross 67 ?
+D628	+	REF	Ross 67a ?
+D629	+	BIBL	ibidem III cp . 3 ( 116 ) p . 267 M .
+D631	-	BIBL	in Aristot . Analyt . pr . p . 390 , 16 Wal .
+D631	+	BIBL	Alexander in Aristot . Analyt . pr . p . 390 , 16 Wal .
+D633	-	BIBL	( D . 381 )
+D633	+	BIBL	AE ̈ T . III 16 , 1 ( D . 381 )
+D633	+	BIBL	[ Phys . opin . fr . 23 D . 494 ] ?
+D634	-	REF	( eiusd . fr . LXXIII
+D634	+	BIBL	( eiusd . fr . LXXIII Byw . ) ?
+D635	-	BIBL	( DDG 545b 12
+D635	+	BIBL	Philodemus de pietate c . 11 ( DDG 545b 12 )
+D648	+	BIBL	Galenus de Hipp . et Plat plac . II 5 ( 98 ) p . 203 M .

@@ -1,0 +1,22 @@
+E2607	-	NOTE	Jos 19 , 25
+E2634	-	NOTE	Jos 15 , 27 ἡ καὶ Βεθελεί .
+E2611	-	BIBL	( BCE3E4 )
+E2605	-	BIBL	( BE3E4 )
+E2605	+	NOTE	( BE3E4 )
+E2620	-	NOTE	( Aristoph . Acharn . 277 et saepius )
+E2616	-	BIBL	Chrys . sac . 6 , 12 )
+E2616	+	BIBL	( Ioh . Chrys . sac . 6 , 12 ) ?
+E2615	+	BIBL	Sym . 763 ?
+E2615	+	BIBL	EM 1125 ?
+E2619	+	BIBL	Sym . 9 ?
+E2619	+	BIBL	EM 21 ?
+E2619	+	BIBL	Orio 37 , 7 ?
+E2614	+	BIBL	EM 182 , 8 . 10
+E2614	+	BIBL	Et . Gen . AB s . v . ἄχος
+E2641	+	BIBL	Io . Stob . Floril . 95 , 21
+E2635	+	BIBL	Et . gen . 60 ?
+E2624	+	BIBL	( fg 31 Tur )
+E2626	-	BIBL	( A f . 190 , B f . 133 )
+E2626	+	NOTE	( A f . 190 , B f . 133 )
+E2645	+	BIBL	Σ 206
+E2645	+	NOTE	( BCE3E4 )

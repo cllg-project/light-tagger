@@ -1,0 +1,11 @@
+D953	+	BIBL	( fr . adesp . 410 N . )
+D962	+	NOTE	( secuntur apophthegmata )
+D962	+	REF	183 . ?
+D974	+	REF	Κεφ . ξδʹ
+D974	+	REF	( βʹ )
+D976	+	REF	( 44 )
+D980	+	BIBL	( fr : trag . adesp . 393 N . ) ?
+D997	+	REF	329 ?
+D613	-	REF	II
+D613	-	REF	97
+D613	+	REF	II 97 ?

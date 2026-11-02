@@ -1,0 +1,22 @@
+E353	-	BIBL	rep . 3 , 390 c 1 )
+E353	+	BIBL	rep . 3 , 390 c 1
+E353	-	BIBL	( BE3E4 )
+E358	+	REF	( 9 ) ?
+E361	-	BIBL	Ζ 468 )
+E361	+	BIBL	Ζ 468
+E361	-	BIBL	Ζ 469 — 70 )
+E361	+	BIBL	Ζ 469 — 70
+E363	-	BIBL	Λ 251 — 3 )
+E363	+	BIBL	Λ 251 — 3
+E375	-	BIBL	77 )
+E375	+	BIBL	Ο 56 — 77
+E375	-	BIBL	Ο 18 — 22 )
+E375	+	BIBL	Ο 18 — 22
+E387	+	BIBL	Α 555 ?
+E393	-	BIBL	Hdn . II 859 , 13 )
+E393	+	BIBL	Hdn . II 859 , 13
+E394	+	REF	( 463 ) ?
+E397	-	BIBL	EM 537 , 44 )
+E397	+	BIBL	EM 537 , 44
+E359	+	BIBL	HIPPARCH . In Arati et Eudoxi Phaenomena comm . I 2 1 ?
+E369	-	BIBL	( A3 O3 ) ?

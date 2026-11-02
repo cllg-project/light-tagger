@@ -1,0 +1,11 @@
+D450	-	BIBL	Plutarchus
+D450	+	BIBL	Plutarchus de fato cp . 11 p . 574d .
+D450	+	NOTE	( scil . λόγον )
+D455	+	BIBL	Apoll . l . h . 131 , 22 ?
+D459	+	BIBL	Il . Pr . Ρ 201 ?
+D465	+	BIBL	X 1 , 3 ?
+D471	-	BIBL	Idem fere ad δ 343 scholion in M habet ,
+D471	+	BIBL	δ 343 ?
+D476	+	BIBL	Φ 36 ?
+D482	+	BIBL	HARPOKR . s . Καβύλη ?
+D497	+	REF	( 66 )

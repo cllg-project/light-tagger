@@ -1,0 +1,18 @@
+D317	-	BIBL	( DDG p . 360b 27
+D317	+	BIBL	( DDG p . 360b 27 Ae ̈ t . Plac . II 29 , 8 )
+D322	-	BIBL	ZENON PAP .
+D322	+	BIBL	ZENON PAP . ( ed . W . L . Westermann u . a . ) II , 1940 , no . 60
+D341	-	REF	ibid . 674 ?
+D341	+	BIBL	ibid . 674 ?
+D404	-	REF	[ 36 A ] ?
+D404	+	BIBL	[ 36 A ] ?
+D450	+	BIBL	[ Plutarchus ] de fato cp . 11 p . 574d .
+D471	-	REF	( 135 ) ?
+D471	+	BIBL	( 135 ) ?
+D520	-	REF	[ fr . 71 ] ?
+D520	+	BIBL	[ fr . 71 ] ?
+D567	+	BIBL	[ PLUTARCH ] Vit . X or . 833 AB
+D601	-	BIBL	(
+D601	-	BIBL	ν 332 )
+D601	+	BIBL	( ν 332 )
+D601	+	BIBL	ν 332 #2

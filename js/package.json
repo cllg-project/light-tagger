@@ -1,0 +1,11 @@
+{
+  "name": "cllg-light-tagging",
+  "version": "0.1.0",
+  "description": "Light CRF tagger for notes, bibliographic citations and references; pure JavaScript, no dependencies",
+  "main": "src/tagger.js",
+  "files": ["src", "../models/note.json", "../models/cite.json"],
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -1,0 +1,26 @@
+E551	-	BIBL	ψ 246 )
+E551	+	BIBL	ψ 246
+E551	-	BIBL	Ψ 295 )
+E551	+	BIBL	Ψ 295
+E551	+	BIBL	Τ 400 ?
+E551	-	REF	ib . )
+E551	+	REF	ib .
+E555	-	BIBL	( BE3E4 )
+E555	+	NOTE	( BE3E4 )
+E564	+	BIBL	( e . g . Soph . Tr . 692 ) ?
+E566	+	BIBL	Σ 612 ?
+E579	-	BIBL	Tz 641 , 1 . 22 ) #1
+E579	+	BIBL	Tz 641 , 1 . 22 #1
+E579	-	BIBL	Tz 641 , 1 . 22 ) #2
+E579	+	BIBL	Tz 641 , 1 . 22 #2
+E582	-	BIBL	EM 399 , 24 )
+E582	+	BIBL	EM 399 , 24
+E585	-	BIBL	Ψ 537 — 47 )
+E585	+	BIBL	Ψ 537 — 47
+E585	-	BIBL	Ψ 536 )
+E585	+	BIBL	Ψ 536
+E590	-	BIBL	( C f . 76 ) ?
+E590	+	REF	( C f . 76 ) ?
+E594	-	BIBL	ζ 98 )
+E594	+	BIBL	ζ 98
+E559	+	BIBL	( Gen . 42 , 9 . . ) ?

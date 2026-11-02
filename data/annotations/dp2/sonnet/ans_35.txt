@@ -1,0 +1,13 @@
+E1754	-	NOTE	Jos 11 , 21
+E1757	-	NOTE	Jos 13 , 18
+E1762	+	BIBL	a . Or . 39 , 20
+E1764	-	NOTE	( Β 362 al . )
+E1771	+	NOTE	( cf . Β 289 )
+E1771	-	BIBL	( BCE3E4 )
+E1774	+	BIBL	Et . gen . 166
+E1776	-	BIBL	( BCE4 ) #1
+E1779	+	BIBL	Et . gen . 242
+E1785	+	BIBL	( Eur . Fr . llll )
+E1785	+	BIBL	Et . gen . 932
+E1789	+	BIBL	Sym . 1200
+E1789	+	BIBL	EM 1545

@@ -1,0 +1,30 @@
+E651	-	BIBL	Hsd . th . 901 — 6 )
+E651	+	BIBL	Hsd . th . 901 — 6
+E651	+	BIBL	Ο 40
+E653	+	NOTE	( om . Kinkel )
+E656	+	REF	( 489 ) ?
+E658	-	BIBL	Tz 319a , l . 3sq . )
+E658	+	BIBL	Tz 319a , l . 3sq .
+E662	+	BIBL	Gen . 14 , 1
+E663	-	REF	Jer 31 , 40
+E663	+	BIBL	Jer 31 , 40
+E669	-	BIBL	Π 419 — 20 )
+E669	+	BIBL	Π 419 — 20
+E677	-	BIBL	Ν 471 . 476 )
+E677	+	BIBL	Ν 471 . 476
+E677	+	BIBL	Ν 457
+E679	-	BIBL	Pl . R . 343a )
+E679	+	BIBL	Pl . R . 343a
+E683	-	BIBL	Tz 518a , p . 507 , 1 . 15 )
+E683	+	BIBL	Tz 518a , p . 507 , 1 . 15
+E685	-	BIBL	( BCE3E4 ) #2
+E685	+	NOTE	( BCE3E4 ) #2
+E697	-	BIBL	( BCE3E4 ) #1
+E697	+	NOTE	( BCE3E4 ) #1
+E699	-	BIBL	( BE3E4 ) #1
+E699	-	BIBL	( BE3E4 ) #2
+E699	-	BIBL	( BE3E4 ) #3
+E699	+	BIBL	Χ 412 — 29
+E693	-	BIBL	Κ 9 — 10 )
+E693	+	BIBL	Κ 9 — 10
+E695	+	BIBL	Β 314 ?

@@ -1,0 +1,15 @@
+D866	-	BIBL	in Aristot . Anal . pr . p . 278 , 6 Wal .
+D866	+	BIBL	Alexander in Aristot . Anal . pr . p . 278 , 6 Wal .
+D867	+	BIBL	Tertullianus de carne Christi cp . 12 .
+D867	-	REF	ipsa
+D871	-	REF	p . 175
+D871	+	BIBL	p . 175 Mü . ?
+D873	-	REF	II
+D873	+	REF	II 63
+D875	+	BIBL	Proclus in Platonis Timaeum p . 138E ,
+D876	+	BIBL	Sectus adv . math . VIII 93 .
+D876	+	REF	94 ?
+D880	+	NOTE	( scil . οἱ ἀπ ' Ἀθηναίου τοῦ Ἀτταλέως )
+D880	+	NOTE	( scil . ψυχρὸς καὶ ξηρός )
+D891	+	BIBL	Ae ̈ tius Plac . V 10 , 4
+D891	+	NOTE	( Πῶς δίδυμα καὶ τρίδυμα γίνεται G 114 )

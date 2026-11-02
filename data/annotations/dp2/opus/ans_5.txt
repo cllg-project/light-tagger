@@ -1,0 +1,26 @@
+E1145	-	BIBL	et Ι 31 — 44 )
+E1145	+	BIBL	Ι 31 — 44
+E1145	-	BIBL	Ζ 53 — 65 )
+E1145	+	BIBL	Ζ 53 — 65
+E1150	+	BIBL	Β 869
+E1169	+	NOTE	( C om . 1 — 5 Ἀραβίας ; Contuli et DW ) ?
+E1208	-	BIBL	Γ 83 )
+E1208	+	BIBL	Γ 83
+E1257	-	BIBL	Γ 25 )
+E1257	+	BIBL	Γ 25
+E1257	-	BIBL	Ρ 659 )
+E1257	+	BIBL	Ρ 659
+E1257	+	BIBL	Ρ 134
+E1257	-	BIBL	Ε 557 . Π 752 )
+E1257	+	BIBL	Ε 557 . Π 752
+E1264	-	BIBL	Π 401 )
+E1264	+	BIBL	Π 401
+E1277	-	BIBL	( Callim . fr . 498 ?
+E1277	+	BIBL	Callim . fr . 498 ?
+E1351	+	BIBL	Ε 340 — 2
+E1353	-	BIBL	( vs . 222 )
+E1353	+	REF	( vs . 222 )
+E1353	-	BIBL	( v . ad vs . 222 )
+E1353	+	REF	( v . ad vs . 222 ) ?
+E1385	-	BIBL	p . 32 , 17 La Roche )
+E1385	+	BIBL	p . 32 , 17 La Roche

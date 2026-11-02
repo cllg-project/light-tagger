@@ -1,0 +1,18 @@
+E1201	-	BIBL	( BCE3E4 )
+E1202	-	REF	Deut 1 , 7
+E1202	+	BIBL	Deut 1 , 7
+E1205	-	REF	Ez
+E1205	-	REF	29 , 10
+E1205	+	BIBL	Ez 29 , 10
+E1208	-	REF	Γ 83 )
+E1208	+	BIBL	Γ 83 )
+E1211	-	BIBL	( BCE3E49 [ fol . 3r et 10r ] )
+E1211	+	NOTE	( BCE3E49 [ fol . 3r et 10r ] )
+E1212	+	BIBL	( h . an . 8 , 7 p . 595b14 et 8 , 23 p . 604a16 )
+E1215	+	BIBL	( Thuc . 1 , 9 , 4 . . )
+E1219	+	BIBL	a . Or . 149 , 13 in sede Philoxeni
+E1222	-	BIBL	( A : τῶον εἰρημένωον O )
+E1222	+	NOTE	( A : τῶον εἰρημένωον O )
+E1230	-	BIBL	( Κῖος A O )
+E1243	+	BIBL	Deut 3 , 4
+E1246	-	NOTE	Jos 21 , 25

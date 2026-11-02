@@ -1,0 +1,13 @@
+D311	+	NOTE	( Enipeus ) ?
+D317	-	BIBL	Stobaeus I p . 221 , 23
+D317	-	REF	W
+D317	+	BIBL	Stobaeus I p . 221 , 23 W
+D322	+	BIBL	ZENON PAP . ?
+D325	-	REF	( κʹ .
+D325	-	REF	I
+D325	+	REF	( κʹ . I )
+D332	+	BIBL	Simplicius in Aristot . categ . f . 68E . ed . Bas .
+D340	+	NOTE	( scil . ἡ ἀγένητος ὕλη et quattuor primae qualitates ψυχρότης , θερμότης , ξηρότης , ὑγρότης )
+D341	-	REF	ibid .
+D341	-	REF	674
+D341	+	REF	ibid . 674 ?

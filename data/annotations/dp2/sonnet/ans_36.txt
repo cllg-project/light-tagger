@@ -1,0 +1,12 @@
+E1800	-	REF	( cf .
+E1800	-	REF	Θ 89 )
+E1800	+	BIBL	Θ 89 )
+E1803	+	BIBL	EM 1928
+E1806	+	BIBL	( Ierem . 8 , 17 v . l . )
+E1810	+	BIBL	Xiph . 337 , 9 — 17 R . St .
+E1810	+	BIBL	Exc . Val . 393
+E1819	+	NOTE	( variant Th2Tr1 / 2 387 )
+E1825	+	BIBL	Et . gen . 1126
+E1832	-	NOTE	Jos 19 , 26
+E1833	+	BIBL	AE ̈ T . V 24 , 2 ?
+E1844	+	BIBL	Photius s . Πάραλος ?

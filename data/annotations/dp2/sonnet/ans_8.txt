@@ -1,0 +1,19 @@
+E400	-	BIBL	Υ 219 — 32 )
+E400	+	BIBL	Υ 219 — 32
+E403	-	BIBL	Θ 223 . Λ 6 )
+E403	+	BIBL	Θ 223 . Λ 6
+E407	+	BIBL	( Δ 238 al . )
+E408	-	BIBL	( BCE3E4 )
+E411	-	BIBL	Ar . p . 584b 32 . 770 , 35 )
+E411	+	BIBL	Ar . p . 584b 32 . 770 , 35
+E429	-	BIBL	Tz 392a , l . 11 )
+E429	+	BIBL	Tz 392a , l . 11
+E429	-	BIBL	Harl . 5 )
+E429	+	BIBL	Harl . 5
+E441	-	BIBL	Ρ 456 a )
+E441	+	BIBL	Ρ 456 a
+E446	-	BIBL	Epim . Hom . cod . Barocc . 50 ined . )
+E446	+	BIBL	Epim . Hom . cod . Barocc . 50 ined .
+E448	-	BIBL	( r . )
+E439	-	BIBL	Χ 294 )
+E439	+	BIBL	Χ 294

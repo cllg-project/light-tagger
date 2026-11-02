@@ -1,0 +1,27 @@
+E806	-	BIBL	cf . Ν 492 )
+E806	+	BIBL	Ν 492
+E809	-	BIBL	Jos 10 , 3
+E809	+	BIBL	Jos 10 , 3 ; 12 , 12 ?
+E812	-	REF	150 )
+E812	+	REF	150
+E812	+	REF	( 487 ) #1
+E812	+	REF	( 487 ) #2
+E817	-	BIBL	Θ 98 )
+E817	+	BIBL	Θ 98
+E817	-	BIBL	( BE3E4 )
+E817	-	BIBL	Θ 99144 )
+E817	+	BIBL	Θ 99144
+E818	+	BIBL	[ Orph . frg . 209 ] ?
+E825	-	BIBL	Pl . La . 197c )
+E825	+	BIBL	Pl . La . 197c
+E832	-	BIBL	Δ 339 )
+E832	+	BIBL	Δ 339
+E832	-	BIBL	Δ 334 )
+E832	+	BIBL	Δ 334
+E832	-	BIBL	( BE3E4 )
+E835	-	BIBL	( BE3E4 )
+E835	+	BIBL	Α 421 . Κ 308 al . ?
+E845	+	BIBL	Φ 397 — 8
+E846	+	REF	sch . vet . 914 ?
+E848	-	BIBL	Ξ 445 )
+E848	+	BIBL	Ξ 445

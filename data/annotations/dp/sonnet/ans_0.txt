@@ -1,0 +1,10 @@
+D4	+	REF	( δʹ )
+D5	+	BIBL	( 1350 ) ?
+D11	-	BIBL	ARISTOT . de anima A 2 . 405a 15 ἀρχήν
+D11	+	BIBL	ARISTOT . de anima A 2 . 405a 15
+D11	+	NOTE	[ Anaxag . ] ?
+D13	+	REF	( 111 )
+D14	+	NOTE	( ? ) ?
+D31	-	BIBL	App . ad Anthol . Palat . n . 40 )
+D31	+	BIBL	App . ad Anthol . Palat . n . 40
+D32	+	NOTE	( mundum deletum iri , partibus in medium infiniti spatii confluentibus ) ?

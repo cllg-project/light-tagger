@@ -1,0 +1,7 @@
+E1557	+	BIBL	Richt 1 , 26
+E1575	-	NOTE	Jos . 19 ,
+E1575	+	BIBL	Jos . 19 , 36
+E1576	+	BIBL	Xiph . 134 , 32 — 135 , 4
+E1578	-	BIBL	Deut 3 , 12
+E1578	+	BIBL	Deut 3 , 12 ; 4 , 48
+E1599	+	BIBL	Et . gen . 1478

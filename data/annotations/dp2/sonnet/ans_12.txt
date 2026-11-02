@@ -1,0 +1,26 @@
+E602	-	BIBL	Ι 439 — 40 )
+E602	+	BIBL	Ι 439 — 40
+E605	-	BIBL	EM 45 , 38 )
+E605	+	BIBL	EM 45 , 38
+E605	+	NOTE	( unde EM 45 , 38 ) ?
+E607	-	BIBL	Η 124 — 60 )
+E607	+	BIBL	Η 124 — 60
+E618	-	BIBL	Ζ 410 — 1 )
+E618	+	BIBL	Ζ 410 — 1
+E622	-	BIBL	Ρ 517 — 24 )
+E622	+	BIBL	Ρ 517 — 24
+E631	-	BIBL	EM 50 , 28 )
+E631	+	BIBL	EM 50 , 28
+E631	+	NOTE	( unde Et . Gen . B s . v . . ἀκόνη = EM 50 , 28 ) ?
+E634	-	BIBL	Ο 113 — 20 )
+E634	+	BIBL	Ο 113 — 20
+E643	-	BIBL	Ael . D . ρ 1 )
+E643	+	BIBL	Ael . D . ρ 1
+E648	-	BIBL	Ε 439 — 44 )
+E648	+	BIBL	Ε 439 — 44
+E623	+	BIBL	( Eur . Or . 1183 )
+E628	+	BIBL	Γ 184 ?
+E649	+	BIBL	Λ 350 — 6 . Ξ 409 — 20 ?
+E636	+	BIBL	Jer 25 , 23
+E639	-	BIBL	( Hos . 5 , 1
+E639	+	BIBL	( Hos . 5 , 1 ςʹ ) ?

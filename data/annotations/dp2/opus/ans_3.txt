@@ -1,0 +1,11 @@
+E639	+	BIBL	( Hos . 5 , 1 ςʹ ) ?
+E683	+	REF	sch . vet . 524a
+E683	+	NOTE	( = Tz 518a , p . 507 , 1 . 15 )
+E699	+	NOTE	( BE3E4 ) #1
+E699	+	NOTE	( BE3E4 ) #2
+E699	+	NOTE	( BE3E4 ) #3
+E723	-	REF	D
+E744	+	NOTE	( s . Ω 551 )
+E809	-	NOTE	Jos 10 , 3
+E817	+	NOTE	( BE3E4 )
+E832	+	NOTE	( BE3E4 )

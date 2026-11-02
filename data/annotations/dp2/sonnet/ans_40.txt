@@ -1,0 +1,13 @@
+E2000	-	NOTE	Jos 13 , 19
+E2002	+	BIBL	Gen 38 , 12
+E2049	+	BIBL	Gen 38 , 5
+E2041	-	NOTE	I Kön 9 , 15
+E2009	-	BIBL	( m2 )
+E2009	+	NOTE	( m2 )
+E2009	+	NOTE	( cf . Th1 / 2Tr1 / 2 857 ) ?
+E2020	+	BIBL	Sym . 2 ?
+E2020	+	BIBL	EM 4 ?
+E2020	+	BIBL	Sym . 3 ?
+E2020	+	BIBL	EM 5 ?
+E2020	+	BIBL	Eust . 150 , 19 ?
+E2029	+	BIBL	Et . Gen . AB s . v . βάζω ?

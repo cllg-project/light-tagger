@@ -1,0 +1,23 @@
+E2259	-	BIBL	( BCE3E4 ) #2
+E2283	+	BIBL	Β 839
+E2289	+	BIBL	Σ 556
+E2337	+	REF	sch . vet . 1155a
+E2353	-	REF	T #1
+E2372	-	BIBL	Λ 36 cum Ε 742 . Ρ 593 . Φ 400 )
+E2372	+	BIBL	Λ 36 cum Ε 742 . Ρ 593 . Φ 400
+E2380	-	BIBL	Ψ 607 — 11 )
+E2380	+	BIBL	Ψ 607 — 11
+E2391	-	BIBL	Ael . 10 , 2 . 9 , 51 . Opp . hal . 1 . 590 )
+E2391	+	BIBL	Ael . 10 , 2 . 9 , 51 . Opp . hal . 1 . 590
+E2391	+	NOTE	( τῷ L ) ?
+E2399	+	NOTE	( δὲ L ) ?
+E2409	-	BIBL	( α 1328 ubi tamen
+E2409	+	NOTE	( α 1328 ubi tamen de σφάλλω non disseritur , sed de φηλῶ )
+E2409	+	BIBL	α 1328
+E2489	-	BIBL	Et . Gen . , vide Reitz . , Ind . lect . Rostoch . 1890 / 91 p . 5 )
+E2489	+	NOTE	( ex Et . Gen . , vide Reitz . , Ind . lect . Rostoch . 1890 / 91 p . 5 )
+E2489	+	BIBL	Reitz . , Ind . lect . Rostoch . 1890 / 91 p . 5 ?
+E2525	-	BIBL	Φ 391 — 3 )
+E2525	+	BIBL	Φ 391 — 3
+E2525	-	BIBL	Φ 470 — 1 )
+E2525	+	BIBL	Φ 470 — 1

@@ -1,0 +1,17 @@
+D204	+	BIBL	schol . ad Arist . Pac . 778 ?
+D208	-	BIBL	( Δ 161
+D208	+	BIBL	Δ 161
+D208	+	NOTE	( Δ 161 , ubi Zenodotus τίσουσιν scripsit )
+D208	+	BIBL	β 313 ?
+D213	+	REF	( 259 )
+D215	+	BIBL	Galenus de qualitatibus incorporeis 2 Vol . XIX p . 467 K .
+D222	-	REF	Alexander
+D222	-	BIBL	Aphrod . de fato cp . 32 p . 204 , 12
+D222	-	REF	Bruns .
+D222	+	BIBL	Alexander Aphrod . de fato cp . 32 p . 204 , 12 Bruns .
+D222	+	NOTE	( scil . φρονίμοις )
+D242	-	BIBL	( 1179 )
+D242	+	REF	( 1179 )
+D243	+	REF	( 155 ) ?
+D245	-	REF	( fr . CLVIII Wimm .
+D245	+	BIBL	( fr . CLVIII Wimm . )

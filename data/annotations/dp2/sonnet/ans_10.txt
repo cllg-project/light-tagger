@@ -1,0 +1,30 @@
+E500	+	NOTE	( Fr . rhetoricum ? ) ?
+E508	+	NOTE	( sc . Ι 447 — 95 )
+E508	-	REF	Ι 484 )
+E508	+	BIBL	Ι 484
+E509	-	BIBL	Pl . R . 617c )
+E509	+	BIBL	Pl . R . 617c
+E511	+	BIBL	( Eq . 527 )
+E512	-	BIBL	Φ 136 — 382 )
+E512	+	BIBL	Φ 136 — 382
+E514	-	BIBL	Λ 620 — 1 )
+E514	+	BIBL	Λ 620 — 1
+E522	+	BIBL	( fort . Eccl . 828 )
+E523	-	BIBL	Pl . Phlb . 33e , 34a )
+E523	+	BIBL	Pl . Phlb . 33e , 34a
+E524	-	BIBL	Π 328 )
+E524	+	BIBL	Π 328
+E525	+	BIBL	( Α 8 )
+E531	-	BIBL	( m4 ) ?
+E533	-	BIBL	Κ 29 )
+E533	+	BIBL	Κ 29
+E533	-	BIBL	Κ 459 )
+E533	+	BIBL	Κ 459
+E530	-	BIBL	η super α V .
+E539	-	BIBL	Servius ad Virgil . georg . 1
+E539	+	BIBL	Servius ad Virgil . georg . 1 , 19
+E542	+	BIBL	Richt 11 , 33
+E547	-	BIBL	( P ) #2 ?
+E548	-	BIBL	Dicaearch . fr . 102 We . )
+E548	+	BIBL	Dicaearch . fr . 102 We .
+E549	+	NOTE	( sc . Δ 419 )

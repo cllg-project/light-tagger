@@ -1,0 +1,22 @@
+E2529	-	BIBL	Ε 565 — 70 )
+E2529	+	BIBL	Ε 565 — 70
+E2567	+	BIBL	Β 2
+E2588	-	BIBL	Φ 369 — 76 )
+E2588	+	NOTE	( vide Φ 369 — 76 )
+E2588	+	BIBL	Φ 369 — 76
+E2588	+	BIBL	Φ 357 — 60
+E2605	-	BIBL	Ω 54 )
+E2605	+	BIBL	Ω 54
+E2605	-	BIBL	Plat . com . fr . 25 K . )
+E2605	+	BIBL	Plat . com . fr . 25 K .
+E2611	-	BIBL	Ε 181 )
+E2611	+	BIBL	Ε 181
+E2641	-	REF	( F 50
+E2641	+	REF	( F 50 )
+E2660	-	NOTE	Jos 19 , 27 Σʹ
+E2678	+	NOTE	( A O3 ) #2 ?
+E2678	+	NOTE	( A ) ?
+E2678	+	NOTE	( A2 ) ?
+E2678	+	NOTE	( A2 O3 ) #1 ?
+E2678	+	NOTE	( A2 O3 ) #2 ?
+E2707	+	NOTE	( A f . 223 b , Κυρίλλου καὶ Θεοδωρήτου )

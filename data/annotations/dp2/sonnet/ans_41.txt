@@ -1,0 +1,22 @@
+E2056	+	BIBL	Gen 14 , 6
+E2085	+	BIBL	Gen 14 , 7
+E2069	-	BIBL	EM 465 , 18 , Et . Gud . 270 , 15 St . )
+E2069	+	BIBL	EM 465 , 18
+E2069	+	BIBL	Et . Gud . 270 , 15 St .
+E2069	+	BIBL	a . Or . 80 , 1 ?
+E2065	+	BIBL	Sym . 511 ?
+E2065	+	BIBL	EM 816 ?
+E2073	+	NOTE	( cf . Β 184 )
+E2073	+	BIBL	Β 184
+E2075	-	BIBL	( cf . 616 )
+E2075	+	REF	616 ?
+E2076	+	NOTE	( cf . Π 179 . 186 )
+E2067	+	REF	1125 ?
+E2067	+	REF	1131 ?
+E2067	+	REF	1136 — 38 ?
+E2081	+	BIBL	Τ 95 ?
+E2086	+	BIBL	a . Or . 87 , 15 ?
+E2086	+	BIBL	Et . Gen . AB s . v . κάγκανα ?
+E2086	+	BIBL	EM 482 , 34 ?
+E2063	+	BIBL	( Hist . an . 542b 4 — 17 ) ?
+E2070	+	NOTE	( BCE3E4 ) #2

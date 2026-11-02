@@ -1,0 +1,26 @@
+E901	+	BIBL	Φ 2 ?
+E907	+	BIBL	Λ 844 ?
+E907	+	BIBL	Ε 112 ?
+E908	-	BIBL	Β 2 al . )
+E908	+	BIBL	Β 2 al .
+E908	-	BIBL	Α 498 al . )
+E908	+	BIBL	Α 498 al .
+E913	+	BIBL	Ε 222 — 3 ?
+E913	-	BIBL	Ν 374 — 82 )
+E913	+	BIBL	Ν 374 — 82
+E914	-	BIBL	Ψ 243 . 253 )
+E914	+	BIBL	Ψ 243 . 253
+E916	-	BIBL	EM 624 , 4 )
+E916	+	BIBL	EM 624 , 4
+E923	-	BIBL	α 107 )
+E923	+	BIBL	α 107
+E923	-	BIBL	Γ 78 .
+E923	-	BIBL	Ζ 224 al . )
+E923	+	BIBL	Γ 78
+E923	+	BIBL	Ζ 224 al .
+E933	-	REF	fr . 1 , 3 ? )
+E933	+	BIBL	Callim . fr . 1 , 3 ? ?
+E945	+	BIBL	( Γ 2 )
+E945	+	BIBL	Τ 14 — 5 ?
+E944	-	BIBL	Pl . Phaedr . 244c 2 )
+E944	+	BIBL	Pl . Phaedr . 244c 2

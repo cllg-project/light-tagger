@@ -1,0 +1,14 @@
+D14	+	BIBL	SUID . s . Καλλισθένης ?
+D57	-	REF	( § 16 p . 29 e ) ?
+D57	+	BIBL	( § 16 p . 29 e ) ?
+D73	-	NOTE	( fr . XXVII Wyttenb . ) ?
+D73	-	REF	fr . XXVII ?
+D73	+	BIBL	( fr . XXVII Wyttenb . ) ?
+D120	-	REF	σελ . )
+D120	+	NOTE	( τὴν σελ . )
+D126	-	BIBL	( an Ar . ? )
+D154	-	REF	Diehl ?
+D154	-	REF	LXXI ?
+D154	+	REF	Diehl LXXI ?
+D156	+	BIBL	p . 115 , 8 Ra ?
+D157	+	REF	c . 2 ?

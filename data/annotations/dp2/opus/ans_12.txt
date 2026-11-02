@@ -1,0 +1,10 @@
+E2978	-	BIBL	cf . 267 — 72 )
+E2978	+	REF	267 — 72
+E2978	+	REF	268 — 78
+E2980	-	BIBL	a . Or . 20 , 31
+E2980	+	BIBL	a . Or . 20 , 31 in sede Philoxeni ?
+E2980	-	BIBL	Et . Gud . 249 , 13 Stef . )
+E2980	+	BIBL	Et . Gud . 249 , 13 Stef .
+E2980	+	NOTE	( unde Et . Gud . 249 , 13 Stef . )
+E2980	-	BIBL	EM 180 , 16 )
+E2980	+	BIBL	EM 180 , 16

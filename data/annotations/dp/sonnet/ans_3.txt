@@ -1,0 +1,16 @@
+D151	+	NOTE	( sc . τῶν Κορινθίων )
+D154	+	BIBL	[ X 619 BC ] ?
+D156	+	NOTE	( sc . τὸν Ὑπέρβολον )
+D157	+	BIBL	( de mundo c . 2 — 5 ) ?
+D159	+	BIBL	Phot . lexicon s . v . ?
+D169	-	REF	N .
+D169	+	BIBL	( fr . trag . adesp . n . 430 , 1 N . )
+D169	+	BIBL	( fr . trag . adesp . n . 430 , 2 N . )
+D172	+	BIBL	Π 747 ?
+D179	-	REF	CCCXXIV Ae
+D179	+	REF	CCCXXIV
+D179	+	BIBL	Ae ̈ tius Plac . I 9 , 2 .
+D179	+	NOTE	( Stob . λέγω δὲ τοὺς μέχρι τῶν Στωϊκῶν καταβεβηκότας σὺν Ἡρακλείτῳ etc . )
+D194	+	NOTE	( quod ceteris partibus praesidio est )
+D194	+	REF	§ 16 . ?
+D197	+	REF	( βʹ ) ?

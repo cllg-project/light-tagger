@@ -1,0 +1,6 @@
+E1650	+	BIBL	Ex 14 , 2
+E1667	-	NOTE	Jos 12 , 3 τόπος τῆς Ἰσιμοῦθ ,
+E1680	+	BIBL	Jer 48 , 23
+E1684	+	NOTE	( i . e . ut nomen . ὄνομα nomen substantiv . Ρ 86 , adjectiv . Β 697 )
+E1693	-	NOTE	Jos 19 , 15
+E1698	+	BIBL	Ex 13 , 20

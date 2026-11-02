@@ -1,0 +1,8 @@
+D353	+	BIBL	Varro de lingua lat . VI 56 ?
+D359	+	BIBL	Ae ̈ tius Plac . V 26 , 3 .
+D359	+	NOTE	( τὰ φυτὰ scil . )
+D377	+	BIBL	Il . Pr . Ο 10 . ?
+D377	+	REF	106 . ?
+D387	+	NOTE	( scil . ἐπιστήμαις )
+D395	-	REF	[ δὲ ] ?
+D398	+	NOTE	( sc . Καλλίμαχος ἱστορεῖν Θεόπομπον )

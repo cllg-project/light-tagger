@@ -1,0 +1,7 @@
+E1514	-	NOTE	I Kön 9 , 15
+E1515	-	NOTE	Jos 18 , 17
+E1518	-	BIBL	( C f . 31 b )
+E1518	+	REF	( C f . 31 b ) ?
+E1525	+	BIBL	Gen 2 , 14
+E1533	-	BIBL	( A f . 240 b , B f . 162 b , I f . 226 b )
+E1533	+	REF	( A f . 240 b , B f . 162 b , I f . 226 b ) ?

@@ -1,0 +1,24 @@
+E2075	-	BIBL	Ω 602 . 613 )
+E2075	+	BIBL	Ω 602 . 613
+E2076	-	BIBL	Π 179 . 186 )
+E2076	+	BIBL	Π 179 . 186
+E2086	-	BIBL	a . Or . 87 , 15
+E2086	+	BIBL	a . Or . 87 , 15 in sede Philoxeni ?
+E2109	-	REF	( 437
+E2109	+	REF	( 437 )
+E2142	+	NOTE	( fort . ex Orione )
+E2151	-	BIBL	AP III 347 , 10 )
+E2151	+	BIBL	AP III 347 , 10
+E2157	-	NOTE	Chis ( paraphr ; - τάφαις gl . )
+E2157	+	NOTE	( paraphr ; - τάφαις gl . )
+E2157	+	NOTE	( hic - αταῖς ) ?
+E2162	+	REF	92 — 3
+E2190	-	BIBL	AP III 312 , 17 )
+E2190	+	BIBL	AP III 312 , 17
+E2194	-	NOTE	Hos 5 , 1 Ἀʹ Σʹ Θαβώρ .
+E2214	-	BIBL	δ 368 . μ 331 )
+E2214	+	BIBL	δ 368 . μ 331
+E2214	+	BIBL	Α 459 — 69
+E2220	+	REF	sch . vet . 316b
+E2220	+	REF	sch . vet . 316a in . ?
+E2221	+	REF	16 ?

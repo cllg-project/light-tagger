@@ -1,0 +1,21 @@
+E55	-	BIBL	Κ 235 — 7 )
+E55	+	BIBL	Κ 235 — 7
+E56	-	BIBL	Deut 11 , 29 ὄρος
+E56	+	BIBL	Deut 11 , 29
+E75	+	NOTE	( hic et duo sequentes )
+E82	+	NOTE	( sc . ὁ ἥρως )
+E85	-	BIBL	( B f . 377
+E85	+	NOTE	( B f . 377 ] b , H f . 404 b . Corderio Anonymi . ) ?
+E87	-	BIBL	Ν 31 )
+E87	+	BIBL	Ν 31
+E87	+	BIBL	Β 814 ?
+E88	-	BIBL	Β 512 . Ι 82 )
+E88	+	BIBL	Β 512 . Ι 82
+E92	-	BIBL	Ψ 479 )
+E92	+	BIBL	Ψ 479
+E94	-	BIBL	Hesch . Ψ 72 )
+E94	+	BIBL	Hesch . Ψ 72
+E94	-	BIBL	( M11m9 ) ?
+E97	-	BIBL	( BE3E4 )
+E97	+	NOTE	( BE3E4 )
+E99	-	BIBL	( m2 ) ?

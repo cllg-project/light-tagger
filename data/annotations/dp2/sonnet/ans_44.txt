@@ -1,0 +1,21 @@
+E2202	-	NOTE	II Kön 4 , 42
+E2216	-	NOTE	Jos 11 , 22
+E2219	-	NOTE	II Kön 12 , 21
+E2235	-	NOTE	II Kön 17 , 30
+E2236	-	NOTE	Micha 1 , 11
+E2221	+	BIBL	Deut 1 , 1
+E2212	-	NOTE	( Dem . Or . 32 , 27 )
+E2226	-	NOTE	( Soph . fr . 1125 ? )
+E2226	+	BIBL	( Soph . fr . 1125 ? ) ?
+E2226	+	BIBL	Sym . 167 ?
+E2239	-	BIBL	( BCE3E4 )
+E2214	+	NOTE	( BE3E4 )
+E2232	+	NOTE	( BCE3E4 )
+E2230	+	NOTE	( BE3E4 )
+E2220	-	BIBL	( m2 )
+E2220	+	NOTE	( m2 )
+E2218	+	BIBL	Φ 446 ?
+E2245	+	BIBL	EM 1445 ?
+E2244	-	BIBL	( 3 * )
+E2244	+	REF	( 3 * )
+E2243	+	BIBL	Cicero de legibus I 15 , 42

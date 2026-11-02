@@ -1,0 +1,11 @@
+You label short spans found in OCR'd pages of Greek/Latin editions (patristic, Byzantine, classical). Each line of the input file is:
+  <id> [<page file>]: <left context> ⟦<span>⟧ <right context>
+The span between ⟦ ⟧ is what you label (the rest is context only). Choose exactly one label per span:
+- REF: a reference/numbering system of THIS edition's own text: section or paragraph numbers, chapter/verse numbers, line numbers, page, folio or column markers (e.g. "372 C", "||(288)", "[1186]", "(276v)", "3", "B" as a PG/Stephanus column letter), marginal numbers.
+- NOTE: an editorial/apparatus/explanatory remark that is not a pointer to a source (variant readings, sigla, glosses, "fort. ...", textual comments).
+- BIBL: a pure bibliographic reference to another work or passage (e.g. "Syncell. p. 261, D", "Hesych. Lex. II 499", "Θ 32").
+- NOTEBIBL: a note whose content is a remark that includes a pointer to an EXTERNAL source ("cf. Plat. Rep. 330a", "ex Orione").
+- NOTEREF: a note whose content is a pointer to another place INSIDE the same edition ("cf. supra 101", "infra ad v. 12", "v. 17").
+- O: not a note or reference at all (running header, stray OCR junk, a word of the main text).
+Use the context: a bare number in text is usually REF; a letter right after a column number is REF. Do not over-think; be consistent.
+Read the input file with the Read tool (all lines). Then write your answers with the Write tool to the output path, one JSON object per line, exactly: {"id": "<id>", "label": "<LABEL>"} for every id of the input, nothing else. Finally reply with just the label counts.

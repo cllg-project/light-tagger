@@ -1,0 +1,9 @@
+E2700	+	BIBL	Jer 48 , 1
+E2707	-	BIBL	( A f . 223 b
+E2707	+	NOTE	( A f . 223 b ] , Κυρίλλου καὶ Θεοδωρήτου ) ?
+E2709	+	BIBL	Et . gen . 252
+E2710	-	BIBL	( BE3E4 )
+E2710	+	NOTE	( BE3E4 )
+E2738	+	BIBL	Et . gen . 107
+E2744	+	BIBL	STEPH . BYZ . s . Λαμητῖνοι ?
+E2739	+	REF	p . 438a7 ?

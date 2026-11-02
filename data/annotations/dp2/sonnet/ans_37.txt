@@ -1,0 +1,14 @@
+E1852	-	BIBL	( e . g . Λ 548 )
+E1852	+	NOTE	( e . g . Υ 164 )
+E1857	+	NOTE	( A : ποτέ O )
+E1860	-	BIBL	( BCE3E4 )
+E1860	+	NOTE	( BCE3E4 )
+E1866	-	NOTE	( choliamb . p . 145 )
+E1867	+	BIBL	( Aesch . Choe ̈ . 534 )
+E1868	+	BIBL	Ex 15 , 23ff .
+E1876	-	NOTE	I Kön 4 , 24
+E1878	+	NOTE	( iterant in margine A2 O3 )
+E1883	+	BIBL	Gen 50 , 10
+E1890	-	NOTE	Jos 15 , 54
+E1892	-	BIBL	( BCE3E4 )
+E1892	+	NOTE	( BCE3E4 )

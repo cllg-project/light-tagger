@@ -1,0 +1,15 @@
+D704	+	REF	13 , 1 ?
+D704	+	REF	( 2 )
+D707	+	BIBL	Galenus defin . medicae 445 Vol . XIX p . 452 K .
+D707	+	NOTE	( scil . τὸ ἔμβρυον )
+D714	+	BIBL	Iphicr . 3 ?
+D717	+	BIBL	Il . Pros . Α 302 .
+D717	+	REF	145 . ?
+D725	-	BIBL	( plures versus allatos fuisse testatur Galenus )
+D725	+	NOTE	( plures versus allatos fuisse testatur Galenus )
+D726	-	BIBL	circumeas licet cuncta et ?
+D728	+	REF	16 . ?
+D733	+	BIBL	ERATOSTH . catast . 13
+D736	+	REF	p . 132 , 30 ?
+D743	+	BIBL	( II . Θ 16 )
+D748	+	BIBL	VIII 21 ?

@@ -1,0 +1,29 @@
+E2771	-	BIBL	Hdn . I 211 , 18 )
+E2771	+	NOTE	( exemplum Hdn . I 211 , 18 )
+E2771	+	BIBL	Hdn . I 211 , 18
+E2800	+	REF	υʹ ?
+E2809	-	BIBL	II 919 , 28 )
+E2809	+	BIBL	II 919 , 28
+E2811	-	BIBL	γ 116 )
+E2811	+	BIBL	γ 116
+E2811	+	NOTE	( ad γ 116 ) ?
+E2811	+	BIBL	Eu . Gud . ( c ) α 1850 ?
+E2832	-	BIBL	Ψ 725 )
+E2832	+	BIBL	Ψ 725
+E2859	-	BIBL	( v . ad 199 )
+E2859	+	REF	( v . ad 199 )
+E2867	+	REF	φʹ ?
+E2868	-	BIBL	Θ 186 — 90 )
+E2868	+	BIBL	Θ 186 — 90
+E2883	-	BIBL	Ω 544 — 5 )
+E2883	+	BIBL	Ω 544 — 5
+E2894	-	BIBL	( p . 222 Friedl .
+E2894	+	BIBL	( p . 222 Friedl . )
+E2923	-	BIBL	EM 627 , 10 )
+E2923	+	BIBL	EM 627 , 10
+E2923	+	NOTE	( unde EM 627 , 10 )
+E2952	+	NOTE	( cf . P 645 — 6 )
+E2963	+	REF	( 8 ) #1
+E2963	+	REF	( 8 ) #2
+E2963	+	REF	( 9 )
+E2963	+	NOTE	( ex Su . s . v . Λαμία ( alt . ) , III 232 , 8 — 10 )

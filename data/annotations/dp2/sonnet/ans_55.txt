@@ -1,0 +1,10 @@
+E2751	-	NOTE	Cod . f . 89 a . Εἰ ὁ ἀγαπῶν τὸν
+E2751	+	NOTE	Cod . f . 89 a . ?
+E2764	-	NOTE	Jos 19 , 33 δρυός .
+E2772	-	NOTE	Jos 19 , 12
+E2791	-	NOTE	Jos 10 , 10
+E2766	-	REF	Gen
+E2766	-	REF	32 , 30
+E2766	+	BIBL	Gen 32 , 30
+E2771	+	BIBL	EM 330 ?
+E2794	+	BIBL	2 Kor 8 , 18 — 20

@@ -1,0 +1,10 @@
+Task: find missed annotations in BIO-tagged Greek/Latin critical-edition text. Tokens are space-separated; punctuation is a token.
+Each input line: `S<id><TAB>sample`. Inside a sample, `{CLASS: ...}` is an existing annotation (display only). `⟦k ... ⟧` marks numbered candidate k, currently NOT annotated (O). Markup symbols ({CLASS:, }, ⟦k, ⟧) are not tokens and are not counted.
+Decide for each candidate whether it is really part of an annotation that is missing:
+REF = locator in a text: section/chapter/page/column/line/marginal/scholion-line/excerpt number, [ 95 ], ( 3 ), p . 179, § 3.
+BIBL = bibliographic citation of another work (author/work/edition + locus), e.g. `Et . gen . p . 187 , 1`, `Aelian . n . a . 5 , 39`, `EM 111`, `Stob . 1 . 20 . 6 p . 176 Wa .`.
+NOTE = editorial/apparatus note or parenthetical that is neither a citation nor a pointer (variants, sigla in a note, glosses).
+NOTEBIBL = note wrapping a bibl. NOTEREF = note containing a pointer inside the same edition (supra, infra, v . ad p . 3).
+O = not an annotation: list numbering in running text, years, quantities, ordinary words, manuscript sigla used in the apparatus text itself, etc.
+If the annotation must be wider than the candidate (e.g. `Aelian . ⟦1 n ⟧ . a . 5 , 39` is one BIBL from `Aelian`), give el/er = number of extra tokens to the left/right. Extents must not overlap existing {..} annotations.
+Output: one line per candidate that is NOT O, nothing for O candidates: `S<id> <k> <LABEL> <el> <er>`; append ` ?` if unsure. No JSON, no comments. Judge by reading; do not write a classifier.

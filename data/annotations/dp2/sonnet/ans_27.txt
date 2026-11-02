@@ -1,0 +1,13 @@
+E1351	+	NOTE	( sc . Ε 340 — 2 )
+E1353	-	NOTE	( v . ad vs . 222 )
+E1366	-	NOTE	Hos 9 , 16
+E1377	+	BIBL	Marc 5 , 1
+E1378	-	BIBL	( B , C [ bis ] , E3E4 ) #1
+E1378	-	BIBL	( B , C [ bis ] , E3E4 ) #2
+E1378	-	BIBL	( B , C [ bis ] , E3E4 ) #3
+E1378	+	NOTE	( B , C [ bis ] , E3E4 ) #1
+E1378	+	NOTE	( B , C [ bis ] , E3E4 ) #2
+E1378	+	NOTE	( B , C [ bis ] , E3E4 ) #3
+E1385	+	BIBL	Sym . 1624
+E1385	+	BIBL	EM 2163a
+E1393	-	BIBL	( B f . 98 b )

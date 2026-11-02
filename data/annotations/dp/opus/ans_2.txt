@@ -1,0 +1,15 @@
+D660	-	REF	p . 26 , 31 ?
+D660	+	BIBL	p . 26 , 31 ?
+D704	-	REF	13 , 1 ?
+D704	+	BIBL	13 , 1 ?
+D733	+	BIBL	[ ERATOSTH . ] catast . 13
+D736	-	REF	p . 132 , 30 ?
+D736	+	BIBL	p . 132 , 30 ?
+D760	+	BIBL	L . Ar . 108 . ?
+D795	+	BIBL	L . qu . ep . p . 87 . ?
+D831	+	BIBL	Duentzer 60 ?
+D866	+	REF	11 . ?
+D867	-	REF	ipsa
+D922	-	BIBL	Ar . 147 . ξ 468 .
+D922	+	BIBL	L . Ar . 147 .
+D922	+	BIBL	ξ 468 .

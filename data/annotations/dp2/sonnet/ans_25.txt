@@ -1,0 +1,11 @@
+E1252	-	NOTE	Num 34 , 4
+E1257	+	NOTE	( cf . Ρ 659 )
+E1260	+	BIBL	Pausan . 3 , 25 , 4 ?
+E1260	+	BIBL	Lehrs Herodian . p . 457 ?
+E1264	+	REF	399 - 400
+E1265	+	BIBL	Et . Gud . ( c ) α 1700
+E1265	-	BIBL	( 175 , 26 Koese )
+E1265	+	BIBL	Orio 8 , 27 ( 175 , 26 Koese )
+E1268	+	BIBL	( Dem . 24 , 8 . . )
+E1277	-	REF	( Callim . fr . 498 ? ?
+E1277	+	BIBL	( Callim . fr . 498 ? ?

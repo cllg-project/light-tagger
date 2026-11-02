@@ -1,0 +1,14 @@
+E38	-	BIBL	( Β
+E38	-	REF	155 #1
+E38	-	BIBL	) #3
+E38	+	BIBL	( Β 155 )
+E38	-	REF	155 )
+E38	+	REF	155 #2
+E85	+	NOTE	( B f . 377 b , H f . 404 b . Corderio Anonymi . ) ?
+E94	+	REF	Tz 1225a ?
+E111	+	BIBL	EM 1635 A ?
+E134	+	BIBL	EM 550 , 12 ?
+E174	+	BIBL	Γ 38
+E191	-	BIBL	Joh . Maurop .
+E191	+	BIBL	Joh . Maurop . Ἐτυμολογικὸν ἔμμετρον , v . 376 ?
+E192	-	REF	bona

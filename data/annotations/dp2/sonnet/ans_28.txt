@@ -1,0 +1,7 @@
+E1400	+	NOTE	( BCE3E4 ) #1
+E1405	+	NOTE	( οὐκ ἔστιν ἐξὸν A O )
+E1405	+	NOTE	( O3 )
+E1439	+	NOTE	( A : διασώζοντες O )
+E1446	+	NOTE	( Στιριεύς A O )
+E1446	+	NOTE	( τῷ A )
+E1446	+	NOTE	( A2 )

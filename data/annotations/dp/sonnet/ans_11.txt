@@ -1,0 +1,3 @@
+D563	+	NOTE	( scil . τὸ ψυχικὸν )
+D567	-	BIBL	PLUTARCH
+D567	+	BIBL	PLUTARCH Vit . X or . 833 AB

@@ -1,0 +1,17 @@
+E2552	-	NOTE	Jos 12 , 3 ἔνθα ἐκρύπτετο Δαυίδ . κεῖται
+E2567	-	BIBL	( v . ad Β 2 )
+E2570	-	BIBL	( BCE3E4 )
+E2572	-	NOTE	I Kön 4 , 12
+E2595	-	NOTE	I Kön 9 , 15 ἐν τῇ Ἰουδαίᾳ
+E2577	-	NOTE	II Kön 14 , 7
+E2579	+	BIBL	Ioh 1 , 28
+E2588	-	BIBL	( vide Φ 357 — 60 )
+E2589	+	BIBL	Μ 379 — 86
+E2590	-	NOTE	( Democr . fr . 8 b ? )
+E2590	+	BIBL	( Democr . fr . 8 b ? )
+E2598	+	BIBL	Et . Gen . A s . v . ἀπροτίμαστος
+E2598	+	BIBL	EM 133 , 2
+E2599	+	BIBL	( Sap . 2 , 5 )
+E2576	+	NOTE	( ἐοικε τῳ δή T : ἔοικε τῷ δή B : ἐοικεδήτω W )
+E2576	+	NOTE	( W t cum Herm . Stob . )
+E2571	+	NOTE	( δὲ καὶ O2 )

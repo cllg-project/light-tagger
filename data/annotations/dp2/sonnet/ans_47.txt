@@ -1,0 +1,18 @@
+E2353	-	BIBL	( BE3E4 )
+E2353	+	NOTE	( BE3E4 )
+E2380	-	BIBL	( BE3E4 )
+E2380	+	NOTE	( BE3E4 )
+E2380	+	NOTE	( BCE3E4 )
+E2354	+	BIBL	Υ 439
+E2372	+	BIBL	Β 101 — 8
+E2356	+	BIBL	( Crates frg . 20 ) ?
+E2376	+	BIBL	Jer 48 , 21
+E2397	+	BIBL	Ex 13 , 20
+E2383	-	NOTE	( Philet . com . fr . 9 )
+E2383	+	BIBL	( Philet . com . fr . 9 )
+E2391	-	BIBL	108 , 10 ( Hercher )
+E2391	+	BIBL	Artemidor . 2 , 14 p . 108 , 10 ( Hercher )
+E2395	+	BIBL	Exc . UR 12 ?
+E2369	+	BIBL	Sym . 364 ?
+E2369	+	BIBL	Et . Gud . α 132 ?
+E2399	-	REF	V .

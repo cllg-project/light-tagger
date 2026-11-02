@@ -1,0 +1,14 @@
+Task: correct a pre-annotation of short passages from Greek/Latin critical editions. Tokens are space-separated; punctuation is its own token.
+Each input line: `<id><TAB>passage`. The passage already carries annotations from a model, in two layers that may overlap (nest):
+  {NOTE: ...}  = a note: editorial/apparatus note or parenthetical, neither a citation nor a pointer (variants, sigla in a note, glosses, comments).
+  [BIBL: ...]  = a bibliographic citation of another work: author/work/edition + locus (`Et . gen . p . 187 , 1`, `Aelian . n . a . 5 , 39`, `EM 111`).
+  [REF: ...]   = a locator marking a place in a text: section/chapter/page/column/line/marginal/scholion-line/excerpt number, `[ 95 ]`, `( 3 )`, `p . 179`, `§ 3`, `col . b`.
+A BIBL or REF may sit inside a NOTE (a note containing a citation). Markup symbols ({NOTE:, [BIBL:, [REF:, ], }) are display only, not tokens.
+Parentheses belonging to a note or citation are inside the span. List numbering in running text, years, quantities and ordinary words are NOT annotations.
+Your job: find the model's mistakes - wrong class, wrong extent (too short, too long, split in two, merged), spurious spans, and missed spans. Do not change correct ones.
+Output only the corrections, one per line, tab-separated:
+  <id>\t-\tCLASS\ttext       remove the existing span of that class whose tokens are `text`
+  <id>\t+\tCLASS\ttext       add a span of that class over exactly the tokens `text`
+A relabel or a resize is a `-` line followed by a `+` line. CLASS is NOTE, BIBL or REF. `text` is copied exactly from the passage, tokens joined by single spaces, without markup symbols
+(for a nested span copy only its own tokens). If the same text occurs several times in the passage, append ` #n` (the n-th occurrence, 1-based) after the text.
+A passage that needs no change gets no line. Add ` ?` at the end of a line if you are unsure. No other output, no comments. Judge by reading; do not write a classifier.

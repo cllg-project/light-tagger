@@ -1,0 +1,8 @@
+D803	+	BIBL	[ 113 B — 114 B ] ?
+D811	-	BIBL	( c98 , m131 )
+D811	+	REF	( c98 , m131 ) ?
+D823	+	BIBL	Il . Pr . Ζ 268 .
+D831	+	BIBL	γ 402 . Α 68 . 611 . Ο 716 . ?
+D834	-	REF	( 803
+D834	+	REF	( 803 )
+D849	+	BIBL	( Plut . quomodo adol . poetas audire debeat p . 31 A )

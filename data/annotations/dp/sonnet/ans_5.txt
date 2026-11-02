@@ -1,0 +1,13 @@
+D250	+	BIBL	Etymologicum Orion . s . v . ?
+D256	-	BIBL	( XXXII , 1 )
+D256	+	REF	( XXXII , 1 ) ?
+D259	+	REF	cp . 8 in . ?
+D260	+	NOTE	( i . e . Diodorus )
+D262	-	BIBL	( id faciant )
+D262	+	NOTE	( id faciant )
+D270	+	NOTE	( Subiecta figura : circulus ab utraque parte coloratus , in medio delineata est bestia . )
+D285	-	BIBL	( c39 , m39 )
+D285	+	REF	( c39 , m39 ) ?
+D286	+	REF	p . 648 . ?
+D294	-	BIBL	( c110 , m143 )
+D294	+	REF	( c110 , m143 ) ?

@@ -1,0 +1,7 @@
+E1008	+	REF	( 206 )
+E1012	-	NOTE	( Alex . in Arist . Anal . pr . p . 184 Bk . )
+E1012	+	BIBL	( Alex . in Arist . Anal . pr . p . 184 Bk . )
+E1023	+	BIBL	Et . gen . 981
+E1038	+	BIBL	Sym . 216
+E1049	-	BIBL	( BC E3E4 )
+E1049	+	NOTE	( BC E3E4 )

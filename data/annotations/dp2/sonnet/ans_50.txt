@@ -1,0 +1,22 @@
+E2511	-	NOTE	Jos 17 , 16
+E2525	-	BIBL	( BE3E4 )
+E2525	+	NOTE	( BE3E4 )
+E2536	-	BIBL	( BE3E4 ) #1
+E2536	-	BIBL	( BE3E4 ) #3
+E2536	+	NOTE	( BE3E4 ) #1
+E2536	+	NOTE	( BE3E4 ) #2
+E2536	+	NOTE	( BE3E4 ) #3
+E2532	-	BIBL	( M ; cf . d
+E2542	-	BIBL	Et . Gen . AB s . v . φύξ ( unde EM 802 , 46 )
+E2542	+	BIBL	Et . Gen . AB s . v . φύξ
+E2542	+	NOTE	( unde EM 802 , 46 )
+E2542	+	BIBL	EM 802 , 46
+E2543	-	NOTE	( Euphor . fr . 93 Scheidw . )
+E2540	-	BIBL	Gen 26
+E2540	+	BIBL	Gen 26 , 33
+E2512	+	BIBL	Sym . 172 ?
+E2512	+	BIBL	EM 290 ?
+E2512	+	BIBL	Eust . 223 , 13 ?
+E2512	+	BIBL	Orio 29 , 22 ?
+E2515	-	REF	Did
+E2529	+	BIBL	ο 185 — 7

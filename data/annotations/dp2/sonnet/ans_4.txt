@@ -1,0 +1,24 @@
+E200	-	BIBL	Σ 375 — 7 )
+E200	+	BIBL	Σ 375 — 7
+E200	+	NOTE	( cf . Σ 375 — 7 ) ?
+E205	+	BIBL	Ex 14 , 2
+E212	-	BIBL	λ 576 — 81 )
+E212	+	BIBL	λ 576 — 81
+E212	-	BIBL	ω 13 — 4 )
+E212	+	BIBL	ω 13 — 4
+E215	-	BIBL	Β 20 — 1 )
+E215	+	BIBL	Β 20 — 1
+E234	-	BIBL	( m4 ) ?
+E235	-	BIBL	Α 401 )
+E235	+	BIBL	Α 401
+E236	-	BIBL	Μ 6 )
+E236	+	BIBL	Μ 6
+E219	+	BIBL	[ Demosth . 1 , 20 ] ?
+E225	-	REF	2 499a )
+E225	+	REF	2 499a
+E225	+	NOTE	( = Tz1 499c et Th2Tr1 / 2 499a ) ?
+E228	-	BIBL	Suid . s .
+E228	+	BIBL	Suid . s . v . ξυστόν
+E241	+	BIBL	Wallies κζʹ p . 166a6 ?
+E242	+	BIBL	Ρ 240 ?
+E248	-	REF	KEAG ?

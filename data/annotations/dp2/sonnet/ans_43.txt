@@ -1,0 +1,20 @@
+E2151	+	BIBL	Sym . 1089 ?
+E2151	+	BIBL	EM 1492 ?
+E2153	-	REF	XsXt .
+E2157	-	BIBL	( M11m6 )
+E2157	+	NOTE	( M11m6 )
+E2162	+	BIBL	Ε 159 — 64
+E2164	+	BIBL	Τ 115 — 8
+E2175	+	BIBL	Ο 415 — Π 123
+E2179	+	BIBL	Α 17 . Β 331 al .
+E2163	+	BIBL	Ν 291 ?
+E2170	-	NOTE	Richt 4 , 7 χειμάρρους πλησίον ?
+E2170	+	BIBL	Richt 4 , 7 ?
+E2172	+	BIBL	Cram . Anecd . Par . 4 , 168
+E2172	+	BIBL	Etym . Magn . p . 316 , 9 Gaisf .
+E2185	-	NOTE	I Kön 9 , 28 ; ?
+E2187	+	BIBL	Choer . schol . Theod . , Gramm . Gr . IV 2 , 349 , 11 Hilgard ?
+E2190	+	BIBL	Sym . 1631 ?
+E2190	+	BIBL	EM 2166 ?
+E2194	-	REF	5 , 1
+E2194	+	BIBL	Hos 5 , 1 ?

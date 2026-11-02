@@ -1,0 +1,15 @@
+E446	+	BIBL	Eust . 1760 , 35 ?
+E456	+	REF	p . 143 , 11 — 15 ?
+E499	-	BIBL	Et . Gen . AIAIIB s . v .
+E499	+	BIBL	Et . Gen . AIAIIB s . v . ἐρρέθην ?
+E508	+	BIBL	Ι 447 — 95
+E511	+	BIBL	Aristaenet . p . 26 Soergel ?
+E511	+	BIBL	Et . gen . 1451 ?
+E531	-	BIBL	Tz 218a , l . 11 )
+E531	+	BIBL	Tz 218a , l . 11
+E533	+	NOTE	( BCE3E4 )
+E533	+	NOTE	( BE3E4 )
+E549	+	NOTE	( BCE3E4 ) #1
+E549	+	BIBL	Δ 419
+E623	+	NOTE	( vp . r ) ?
+E631	+	BIBL	Or . 22 , 24 in sede Philoxeni ?

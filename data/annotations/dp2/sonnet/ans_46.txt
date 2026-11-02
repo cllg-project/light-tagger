@@ -1,0 +1,5 @@
+E2337	-	BIBL	( h post 1154d . α )
+E2337	+	NOTE	( h post 1154d . α )
+E2349	+	BIBL	Ζ 202
+E2349	+	NOTE	( BE3E4 )
+E2348	+	NOTE	( O4 )

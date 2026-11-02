@@ -1,0 +1,22 @@
+E151	+	BIBL	Jer 25 , 23
+E178	+	BIBL	Ez 27 , 21
+E190	+	BIBL	Richt 11 , 33
+E152	+	BIBL	Σ 215 ?
+E160	-	BIBL	Φ 111 — 2 )
+E160	+	BIBL	Φ 111 — 2
+E166	+	BIBL	( fr . 189 M . — W . ) ?
+E173	-	BIBL	Mens . 57 )
+E173	+	BIBL	Mens . 57
+E174	-	REF	Ο 610 )
+E174	+	BIBL	Ο 610
+E176	-	BIBL	( BCE3E4 )
+E194	-	BIBL	( BCE3E4 ) #1
+E194	+	NOTE	( BCE3E4 ) #1
+E194	-	BIBL	( BCE3E4 ) #2
+E180	-	BIBL	( Τ 307 +
+E180	-	BIBL	Λ 780 . . . )
+E180	+	BIBL	( Τ 307 + Λ 780 . . . )
+E180	-	BIBL	( l . c . )
+E191	-	BIBL	Joh . Mauropus p . 15 )
+E191	+	BIBL	Joh . Mauropus p . 15
+E192	-	REF	bona

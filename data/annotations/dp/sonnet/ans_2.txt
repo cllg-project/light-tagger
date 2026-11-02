@@ -1,0 +1,14 @@
+D112	-	BIBL	( D . 373 ; περὶ ἴριδος )
+D112	+	BIBL	AE ̈ T . III 5 , 11 ( D . 373 ; περὶ ἴριδος )
+D120	+	BIBL	Ae ̈ tius Plac . II 26 , 1 . ?
+D126	+	BIBL	Eust . 1524 , 25 ?
+D126	+	BIBL	Apoll . l . h . 84 , 1 ?
+D133	+	REF	( 2 )
+D137	+	BIBL	sextus adv . math . IV 71 .
+D139	+	REF	( 2 )
+D139	-	NOTE	supra scripsimus de eo praedicarunt atque hoc amplius : cum ?
+D148	+	REF	κδʹ .
+D148	-	BIBL	( p . 6 , 14 W . )
+D148	+	BIBL	ARIUS DID . bei Stob . Ecl . II 1 , 18 ( p . 6 , 14 W . )
+D149	-	NOTE	( 362 s . )
+D149	+	BIBL	( 362 s . )

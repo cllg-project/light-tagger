@@ -1,0 +1,20 @@
+E950	-	BIBL	Ψ 536 )
+E950	+	BIBL	Ψ 536
+E950	-	BIBL	Ψ 725 — 32 )
+E950	+	BIBL	Ψ 725 — 32
+E950	-	BIBL	Ψ 778 — 92 )
+E950	+	BIBL	Ψ 778 — 92
+E951	+	BIBL	Υ 215 ?
+E952	-	BIBL	p . 2 sq . )
+E952	+	REF	p . 2 sq .
+E952	+	REF	p . 24 ?
+E959	-	REF	32 )
+E959	+	REF	32
+E973	+	BIBL	( δ 393 . . ) ?
+E974	+	NOTE	( quis ? )
+E988	-	BIBL	prov . ap . Su . τ 1019 )
+E988	+	BIBL	prov . ap . Su . τ 1019
+E997	-	BIBL	( BE3E4 )
+E997	+	NOTE	( BE3E4 )
+E998	-	REF	15 , 20 )
+E998	+	REF	15 , 20

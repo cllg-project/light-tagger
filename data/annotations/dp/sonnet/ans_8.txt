@@ -1,0 +1,10 @@
+D401	-	BIBL	( c65 , m65 )
+D401	+	REF	( c65 , m65 ) ?
+D402	+	NOTE	( Scil . τοῦ κρόνου )
+D404	+	REF	[ 36 A ] ?
+D408	+	BIBL	( fr . adesp . 419 N . ) ?
+D419	-	REF	2 , 1
+D419	+	BIBL	[ enn . 2 , 2 , 1 ]
+D419	+	REF	Diehl 115c
+D422	+	NOTE	( scil . Platonem )
+D428	+	BIBL	( Theaet . p . 176B )

@@ -1,0 +1,22 @@
+E2	-	REF	( 1 . Tim . 2 , 12 )
+E2	+	BIBL	( 1 . Tim . 2 , 12 )
+E25	-	BIBL	Φ 277 — 8 )
+E25	+	BIBL	Φ 277 — 8
+E25	+	NOTE	( cf . Φ 277 — 8 )
+E37	-	BIBL	Ψ 296 — 9 )
+E37	+	BIBL	Ψ 296 — 9
+E37	-	BIBL	ω 114 — 9 )
+E37	+	BIBL	ω 114 — 9
+E37	-	BIBL	δ 11 )
+E37	+	BIBL	δ 11
+E37	+	BIBL	Λ 769 — 70 ?
+E37	+	BIBL	Τ 326 — 7 ?
+E38	-	REF	155 )
+E38	+	REF	155
+E29	-	BIBL	( BCE3E4 )
+E32	+	BIBL	( Herm . XIV , p . 249 ) ?
+E39	-	BIBL	Gen 24
+E39	+	BIBL	Gen 24 , 62
+E47	+	BIBL	CLEM . Strom . V 81 [ II 380 , 5 St . ]
+E48	+	REF	( v . 346 — 49 )
+E27	+	REF	( 49 ) ?

@@ -1,0 +1,17 @@
+E704	+	NOTE	( A3 O3 : φασὶν fec . O4 ) ?
+E705	+	BIBL	Ex 16 , 1
+E713	-	BIBL	Ζ 55
+E713	+	BIBL	Ζ 55 — 60 . Λ 138 — 42
+E714	-	BIBL	AO I 27 , 26 )
+E714	+	BIBL	AO I 27 , 26
+E723	-	BIBL	( B CE3E4 )
+E723	+	NOTE	( B CE3E4 )
+E739	-	BIBL	Ε 693 — 8 )
+E739	+	BIBL	Ε 693 — 8
+E744	-	BIBL	Ω 551 )
+E744	+	BIBL	Ω 551
+E746	-	BIBL	Λ 435 — 6 )
+E746	+	BIBL	Λ 435 — 6
+E746	-	BIBL	Λ 437 — 8 )
+E746	+	BIBL	Λ 437 — 8
+E747	+	NOTE	( B2 T W ) ?

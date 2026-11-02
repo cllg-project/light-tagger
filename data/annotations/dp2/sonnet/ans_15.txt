@@ -1,0 +1,12 @@
+E754	-	BIBL	Euthphr . 12b )
+E754	+	BIBL	Euthphr . 12b
+E759	-	BIBL	λ 364 )
+E759	+	BIBL	λ 364
+E765	+	BIBL	Arist . h . a . 623 b 11
+E773	+	NOTE	( Cod . ἔη )
+E777	+	BIBL	Ι 43
+E783	-	BIBL	( A f . 351 b , B f . 292 , E f . 134 b , H f . 182 b )
+E788	-	BIBL	( Pp ) ?
+E799	+	REF	( 226 ) ?
+E798	-	BIBL	Ψ 597 )
+E798	+	BIBL	Ψ 597

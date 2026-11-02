@@ -1,0 +1,25 @@
+E2104	-	NOTE	Richt 12 , 13ff .
+E2105	-	NOTE	Jos 18 , 21
+E2111	-	NOTE	Jos 15 , 34
+E2101	-	BIBL	B 344 , 28 . Phot . 33 , 8
+E2101	+	BIBL	B 344 , 28 ?
+E2101	+	BIBL	Phot . 33 , 8 ?
+E2102	-	REF	( Δ 138
+E2102	+	BIBL	( Δ 138 ) ?
+E2102	-	BIBL	scr . L . pro τι εἰρηκέναι Ar . 223
+E2102	+	NOTE	scr . L . pro τι εἰρηκέναι Ar . 223 ?
+E2107	+	BIBL	Xiph . 136 , 29 — 137 , 17 ?
+E2107	+	BIBL	Exc . Val . 189 ?
+E2109	+	REF	( 438 ) ?
+E2124	-	BIBL	( fec . A2
+E2130	-	BIBL	( m3 )
+E2130	+	NOTE	( m3 )
+E2134	+	NOTE	( A2 ) ?
+E2136	+	BIBL	EM 331 ?
+E2137	+	BIBL	Et . gen . 1300 ?
+E2141	+	REF	100d3 .
+E2142	+	BIBL	Et . Gen . AB s . v . στρέβλη ?
+E2142	+	BIBL	EM 729 , 48
+E2146	-	REF	Ez 1 , 1
+E2146	+	BIBL	Ez 1 , 1
+E2100	+	NOTE	( BE3E4 )

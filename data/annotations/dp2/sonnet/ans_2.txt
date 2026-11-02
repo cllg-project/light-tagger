@@ -1,0 +1,29 @@
+E100	-	BIBL	Ψ 311 )
+E100	+	BIBL	Ψ 311
+E108	-	BIBL	p . 23 )
+E108	+	REF	p . 23 ?
+E108	-	BIBL	( v . ad 200 )
+E108	+	REF	( v . ad 200 ) ?
+E111	-	BIBL	Miller , Mélang . p . 211 )
+E111	+	BIBL	Miller , Mélang . p . 211
+E127	-	BIBL	Θ 300 . 309 al . )
+E127	+	BIBL	Θ 300 . 309 al .
+E129	-	BIBL	α 66 )
+E129	+	BIBL	α 66
+E132	-	BIBL	Δ 176 )
+E132	+	BIBL	Δ 176
+E134	-	BIBL	Miller , Mélang . p . 200 )
+E134	+	BIBL	Miller , Mélang . p . 200
+E140	-	BIBL	Β 830 — 1 )
+E140	+	BIBL	Β 830 — 1
+E124	-	BIBL	( BCE3E4 )
+E144	+	NOTE	( sc . Π 666 — 83 )
+E144	+	BIBL	Π 666 — 83 ?
+E145	-	REF	Zach 9 , 9
+E145	+	BIBL	Zach 9 , 9
+E149	+	BIBL	Exc . Salmas . ?
+E121	+	REF	( μηʹ )
+E135	+	REF	( 16 ) ?
+E135	+	REF	( 17 ) ?
+E135	+	REF	( 19 ) ?
+E135	+	REF	( 20 ) ?
